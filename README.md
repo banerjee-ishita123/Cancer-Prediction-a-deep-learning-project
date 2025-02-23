@@ -21,3 +21,11 @@ conda activate chest
 ```bash
 pip install -r requirements.txt
 ```
+
+```bash
+export MLFLOW_TRACKING_URI=https://dagshub.com/banerjeeishita2005/Cancer-Prediction-a-deep-learning-project.mlflow
+
+export MLFLOW_TRACKING_USERNAME=banerjeeishita2005
+
+export MLFLOW_TRACKING_PASSWORD=ed44259b0c674d8b0a61fb6ddec192c428016825
+```
