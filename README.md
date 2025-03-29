@@ -45,7 +45,7 @@ Its Production Grade
 Trace all of your expriements
 Logging & taging your model
 
-DVC
+Dvc
 
 Its very lite weight for POC only
 lite weight expriements tracker
@@ -57,4 +57,4 @@ It can perform Orchestration (Creating Pipelines)
 
 2. AmazonEC2FullAccess
 # Create ECR repo to store/save docker image
-050451382029.dkr.ecr.eu-north-1.amazonaws.com/chest
+050451382029.dkr.ecr.ap-south-1.amazonaws.com/chestcancer
